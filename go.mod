@@ -1,3 +1,3 @@
 module github.com/unqnown/semver
 
-go 1.12
+go 1.14
